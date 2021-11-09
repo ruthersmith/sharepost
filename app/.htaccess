@@ -1,0 +1,2 @@
+#makes content inaccessible from web browser
+Options -Indexes

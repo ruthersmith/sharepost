@@ -1,0 +1,1 @@
+This is an application written with the ruthersmith-mvc framework
